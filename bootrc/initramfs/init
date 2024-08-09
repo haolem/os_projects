@@ -1,0 +1,4 @@
+#!/bin/sh
+clear
+echo "ZOS v1 - Shell: /bin/sh"
+/bin/sh
